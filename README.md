@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/rajeshkumarbuilds">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/rajesh-builds/" >
+  <a href="https://www.linkedin.com/in/rajesh-builds/" target="blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -122,7 +122,6 @@ A food-web interface built to practice component-based development, API integrat
 
 **Technologies:** React, Redux Toolkit, JavaScript, Tailwind CSS.
 
-> https://github.com/rajeshkumarbuilds/food-delivery-app
 
 ## Currently Learning
 
